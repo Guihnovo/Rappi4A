@@ -3,7 +3,7 @@
 <img src="https://github.com/Guihnovo/Rappi4A/blob/master/RestauranteImage.jpg" width="250px"></img>
 <img src="https://github.com/Guihnovo/Rappi4A/blob/master/RestauranteModal.png" width="250px"></img>
 
-#### Status do Projeto: Concluído :heavy_check_mark:
+#### Status do Projeto: Em desenvolvimento :neutral_face:
 
 ## Objetivos :star:
 
